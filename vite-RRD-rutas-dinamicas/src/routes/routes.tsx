@@ -9,7 +9,7 @@ export const router = createBrowserRouter([
     element: <Home />,
   },
   {
-    path: "/about",
+    path: "/about/:name/:age?/:lastname",
     element: <About />,
   },
 ] as RouteObject[]);
