@@ -1,40 +1,52 @@
-Ejemplos de React Router DOM
-¡Bienvenido al repositorio de ejemplos de React Router DOM! Este repositorio contiene varios ejemplos que demuestran cómo usar React Router DOM para el enrutamiento en aplicaciones React, basados en los tutoriales e información proporcionados en el sitio web de documentación.
+# Ejemplos de React Router DOM
 
-Descripción General
+¡Bienvenido al repositorio de ejemplos de React Router DOM! Este repositorio contiene varios ejemplos que demuestran cómo usar React Router DOM para el enrutamiento en aplicaciones React, basados en los tutoriales e información proporcionados en el [sitio web de documentación](https://documentation-gl.gitbook.io/frontend/vite/enrutado/react-router-dom).
+
+## Descripción General
+
 Este repositorio tiene como objetivo proporcionar ejemplos claros y prácticos del uso de React Router DOM, tanto para principiantes como para desarrolladores experimentados. Cada ejemplo está diseñado para ilustrar características y casos de uso específicos de React Router DOM, ayudándote a entender e implementar el enrutamiento en tus propias aplicaciones React.
 
-Tabla de Contenidos
-Instalación
-Uso Básico
-Rutas Anidadas
-Manejo de Errores
-Carga de Datos
-Enlaces Útiles
-Instalación
+## Tabla de Contenidos
+
+- [Instalación](#instalación)
+- [Uso Básico](#uso-básico)
+- [Rutas Anidadas](#rutas-anidadas)
+- [Manejo de Errores](#manejo-de-errores)
+- [Carga de Datos](#carga-de-datos)
+- [Enlaces Útiles](#enlaces-útiles)
+
+## Instalación
+
 Para probar los ejemplos en este repositorio, sigue estos pasos:
 
-Clonar el repositorio:
+1. **Clonar el repositorio**:
 
-bash
-Copiar código
-git clone https://github.com/tu-usuario/react-router-dom-ejemplos.git
-Hacer cd en el ejemplo que desees ver:
+   ```bash
+   git clone https://github.com/tu-usuario/react-router-dom-ejemplos.git
+   ```
 
-bash
-Copiar código
-cd ruta/al/ejemplo
-Instalar las dependencias:
+2. **Hacer cd en el ejemplo que desees ver**:
 
-bash
-Copiar código
-npm install
-Iniciar el servidor de desarrollo:
+    ```bash
+    cd path/ejemplo
+    ```
 
-bash
-Copiar código
-npm run dev
-Enlaces Útiles
-Documentación de React Router DOM
-Documentación de Vite
-Documentación de Frontend
+3. **Instalar las dependencias**:
+
+    ```bash
+    npm install
+    ```
+
+4. **Iniciar el servidor de desarrollo**:
+
+    ```bash
+    npm run dev
+    ```
+
+
+
+## Enlaces Útiles
+
+- [Documentación de React Router DOM](https://reactrouter.com/)
+- [Documentación de Vite](https://vitejs.dev/)
+- [Documentación de Frontend](https://documentation-gl.gitbook.io/frontend/vite/enrutado/react-router-dom)
