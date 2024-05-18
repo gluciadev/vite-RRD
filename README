@@ -1,0 +1,40 @@
+Ejemplos de React Router DOM
+¡Bienvenido al repositorio de ejemplos de React Router DOM! Este repositorio contiene varios ejemplos que demuestran cómo usar React Router DOM para el enrutamiento en aplicaciones React, basados en los tutoriales e información proporcionados en el sitio web de documentación.
+
+Descripción General
+Este repositorio tiene como objetivo proporcionar ejemplos claros y prácticos del uso de React Router DOM, tanto para principiantes como para desarrolladores experimentados. Cada ejemplo está diseñado para ilustrar características y casos de uso específicos de React Router DOM, ayudándote a entender e implementar el enrutamiento en tus propias aplicaciones React.
+
+Tabla de Contenidos
+Instalación
+Uso Básico
+Rutas Anidadas
+Manejo de Errores
+Carga de Datos
+Enlaces Útiles
+Instalación
+Para probar los ejemplos en este repositorio, sigue estos pasos:
+
+Clonar el repositorio:
+
+bash
+Copiar código
+git clone https://github.com/tu-usuario/react-router-dom-ejemplos.git
+Hacer cd en el ejemplo que desees ver:
+
+bash
+Copiar código
+cd ruta/al/ejemplo
+Instalar las dependencias:
+
+bash
+Copiar código
+npm install
+Iniciar el servidor de desarrollo:
+
+bash
+Copiar código
+npm run dev
+Enlaces Útiles
+Documentación de React Router DOM
+Documentación de Vite
+Documentación de Frontend
