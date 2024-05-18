@@ -9,11 +9,13 @@ Este repositorio tiene como objetivo proporcionar ejemplos claros y prácticos d
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
-- [Uso Básico](#uso-básico)
-- [Rutas Anidadas](#rutas-anidadas)
-- [Manejo de Errores](#manejo-de-errores)
-- [Carga de Datos](#carga-de-datos)
-- [Enlaces Útiles](#enlaces-útiles)
+- Enrutado Clásico
+- Rutas Dinámicas
+- Rutas Lazy (Lazy Loading)
+- Rutas Protegidas (Protected Routes)
+- Rutas Anidadas (Nested Routes)
+- Navegación Programática
+- Hook useRoutes
 
 ## Instalación
 
