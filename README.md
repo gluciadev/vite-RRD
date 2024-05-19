@@ -10,12 +10,10 @@ Este repositorio tiene como objetivo proporcionar ejemplos claros y prácticos d
 
 - [Instalación](#instalación)
 - Enrutado Clásico
-- Rutas Dinámicas
-- Rutas Lazy (Lazy Loading)
-- Rutas Protegidas (Protected Routes)
+- Enrutado Dinámico
 - Rutas Anidadas (Nested Routes)
-- Navegación Programática
-- Hook useRoutes
+- Rutas Protegidas (Protected Routes)
+
 
 ## Instalación
 
