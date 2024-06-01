@@ -9,10 +9,10 @@ Este repositorio tiene como objetivo proporcionar ejemplos claros y prácticos d
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
-- Enrutado Clásico
-- Enrutado Dinámico
-- Rutas Anidadas (Nested Routes)
-- Rutas Protegidas (Protected Routes)
+- [Enrutado Clásico](https://github.com/gluciadev/vite-RRD/tree/main/vite-RRD-enrutado-clasico)
+- [Enrutado Dinámico](https://github.com/gluciadev/vite-RRD/tree/main/vite-RRD-rutas-dinamicas)
+- [Rutas Anidadas (Nested Routes)](https://github.com/gluciadev/vite-RRD/tree/main/vite-RRD-rutas-anidadas)
+- [Rutas Protegidas (Protected Routes)](https://github.com/gluciadev/vite-RRD/tree/main/vite-RRD-rutas-protegidas)
 
 
 ## Instalación
